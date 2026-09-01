@@ -1,5 +1,5 @@
 #!name=AppleRouting
-#!desc=Apple 服務分流（針對非國區 Apple ID 優化）：Apple Music／帳號 API 走 Proxy 解鎖；系統更新與 App Store CDN 保持 DIRECT 省流量；天氣／地圖等一般服務 DIRECT。需要 Proxy 出口，建議排序在 AdBlock 之後。 由 merge_routing.py 生成，勿手改（正本 _private/AppleRouting.src.sgmodule）。UPDATED: 2026-07-21
+#!desc=Apple 服務分流（針對非國區 Apple ID 優化）：Apple Music／帳號 API 走 Proxy 解鎖；系統更新與 App Store CDN 保持 DIRECT 省流量；天氣／地圖等一般服務 DIRECT。需要 Proxy 出口，建議排序在 AdBlock 之後。UPDATED: 2026-07-21
 #!category=Apple
 
 [Rule]

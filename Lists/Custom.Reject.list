@@ -4,7 +4,7 @@
 # Module:Reject.cnAD
 
 # === 阻斷bilibili stun*.chat ===
-DOMAIN-WILDCARD,stun*.chat.bilibili.com,REJECT,extended-matching
+DOMAIN-WILDCARD,stun*.chat.bilibili.com
 
 # === 🍎 蘋果特殊請求 (Apple Edge/Continuity) ===
 DOMAIN-SUFFIX,safebrowsing.apple
